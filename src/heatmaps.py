@@ -32,11 +32,13 @@ def ensure_shapefile():
 	else:
 		print(f"{shp_path} already exists.")
 
-def generate_theft_heatmap(year):
+def generate_theft_heatmap(year, vmin=None, vmax=None):
     """
     Generate a theft rate heatmap for a specific year
     Args:
         year (int): Year for which to generate the heatmap (e.g., 2017, 2018, 2019)
+        vmin (float): Minimum value for color scale normalization
+        vmax (float): Maximum value for color scale normalization
     """
     # Read the shapefile and main data
     india_districts = gpd.read_file(india_districts_shp)
@@ -48,6 +50,16 @@ def generate_theft_heatmap(year):
     
     # Column name for the specific year
     theft_rate_col = f'Theft_Rate_{year}'
+    
+    # If vmin/vmax not provided, calculate from all years
+    if vmin is None or vmax is None:
+        all_years_data = pd.read_csv('data/main_data.csv')
+        theft_rates = []
+        for yr in [2017, 2018, 2019]:
+            year_rate = all_years_data[f'Theft_Rate_{yr}']
+            theft_rates.extend(year_rate)
+        vmin = min(theft_rates)
+        vmax = max(theft_rates)
     
     # Explode and clean the individual district codes
     main_data_exploded = main_data.explode('District_Code')
@@ -86,7 +98,9 @@ def generate_theft_heatmap(year):
         missing_kwds={'color': '#E6E6E6', 'label': 'No Data'},
         cmap='RdYlBu_r',
         edgecolor='#404040',
-        linewidth=0.3
+        linewidth=0.3,
+        vmin=vmin,
+        vmax=vmax
     )
     
     # Add country outline with a more distinct border
@@ -235,22 +249,29 @@ def generate_adoption_heatmap(year, vmin=None, vmax=None):
 if __name__ == "__main__":
     ensure_shapefile()
     
-    # Calculate min/max adoption rates across all years
+    # Calculate min/max theft rates across all years
     main_data = pd.read_csv('data/main_data.csv')
+    theft_rates = []
+    for year in [2017, 2018, 2019]:
+        theft_rates.extend(main_data[f'Theft_Rate_{year}'])
+    theft_vmin = min(theft_rates)
+    theft_vmax = max(theft_rates)
+    
+    # Calculate min/max adoption rates across all years
     adoption_rates = []
     for year in [2018, 2019, 2020]:
         users_col = f'Users_{year}'
         year_rate = (main_data[users_col] / main_data['Population_2011']) * 100
         adoption_rates.extend(year_rate)
-    vmin = min(adoption_rates)
-    vmax = max(adoption_rates)
+    adoption_vmin = min(adoption_rates)
+    adoption_vmax = max(adoption_rates)
     
-	# Generate theft heatmaps
-    # for year in [2017, 2018, 2019]:
-    #     generate_theft_heatmap(year)
-    #     plt.close()
+    # Generate theft heatmaps with consistent scale
+    for year in [2017, 2018, 2019]:
+        generate_theft_heatmap(year, vmin=theft_vmin, vmax=theft_vmax)
+        plt.close()
     
     # Generate adoption heatmaps with consistent scale
     for year in [2018, 2019, 2020]:
-        generate_adoption_heatmap(year, vmin=vmin, vmax=vmax)
+        generate_adoption_heatmap(year, vmin=adoption_vmin, vmax=adoption_vmax)
         plt.close()
