@@ -1,0 +1,65 @@
+Loading data...
+Aggregating duplicates (summing values for same HASC code)...
+Loading shapefile...
+Found 24 variable-year columns to plot.
+Calculated global ranges for variables:
+  Theft: 0.0 - 47202.0
+  Murder: 0.0 - 337.0
+  Cruelty: 0.0 - 2110.0
+  RegisteredUsers: 0.0 - 11546171.0
+  TransactionVolume: 0.0 - 2971669634.0
+Generating heatmap for Theft_2017...
+Saved maps/heatmaps/Theft_2017.png
+Generating heatmap for Murder_2017...
+Saved maps/heatmaps/Murder_2017.png
+Generating heatmap for Cruelty_2017...
+Saved maps/heatmaps/Cruelty_2017.png
+Generating heatmap for RegisteredUsers_2017...
+Saved maps/heatmaps/RegisteredUsers_2017.png
+Generating heatmap for Theft_2018...
+Saved maps/heatmaps/Theft_2018.png
+Generating heatmap for Murder_2018...
+Saved maps/heatmaps/Murder_2018.png
+Generating heatmap for Cruelty_2018...
+Saved maps/heatmaps/Cruelty_2018.png
+Generating heatmap for RegisteredUsers_2018...
+Traceback (most recent call last):
+  File "/Users/sameepshah/Documents/Projects/UPI-Theft-Research/src/generate_all_heatmaps.py", line 112, in <module>
+    generate_all_heatmaps()
+  File "/Users/sameepshah/Documents/Projects/UPI-Theft-Research/src/generate_all_heatmaps.py", line 104, in generate_all_heatmaps
+    plt.savefig(output_filename, dpi=300, bbox_inches='tight')
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/pyplot.py", line 1228, in savefig
+    res = fig.savefig(*args, **kwargs)  # type: ignore[func-returns-value]
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/figure.py", line 3395, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/backend_bases.py", line 2204, in print_figure
+    result = print_method(
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/backend_bases.py", line 2054, in <lambda>
+    print_method = functools.wraps(meth)(lambda *args, **kwargs: meth(
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/backends/backend_agg.py", line 496, in print_png
+    self._print_pil(filename_or_obj, "png", pil_kwargs, metadata)
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/backends/backend_agg.py", line 444, in _print_pil
+    FigureCanvasAgg.draw(self)
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/backends/backend_agg.py", line 387, in draw
+    self.figure.draw(self.renderer)
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/artist.py", line 95, in draw_wrapper
+    result = draw(artist, renderer, *args, **kwargs)
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/artist.py", line 72, in draw_wrapper
+    return draw(artist, renderer)
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/figure.py", line 3162, in draw
+    mimage._draw_list_compositing_images(
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/image.py", line 132, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/artist.py", line 72, in draw_wrapper
+    return draw(artist, renderer)
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/axes/_base.py", line 3137, in draw
+    mimage._draw_list_compositing_images(
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/image.py", line 132, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/artist.py", line 72, in draw_wrapper
+    return draw(artist, renderer)
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/collections.py", line 426, in draw
+    renderer.draw_path_collection(
+  File "/Users/sameepshah/Library/Python/3.9/lib/python/site-packages/matplotlib/path.py", line 211, in vertices
+    @property
+KeyboardInterrupt
