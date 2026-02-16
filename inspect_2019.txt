@@ -1,0 +1,8 @@
+                                             130  ...                          143
+0                                            NaN  ...                          NaN
+1                                            NaN  ...  Total Cognizable IPC crimes
+2  Sale of obscene Books/Objects (Sec.292 & 293)  ...                          NaN
+3                                            NaN  ...                          NaN
+4                                            NaN  ...                          NaN
+
+[5 rows x 14 columns]

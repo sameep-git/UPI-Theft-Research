@@ -1,0 +1,15 @@
+Loading data...
+Theft Data: 872 rows
+Theft Data (Aggregated): 812 rows
+Pulse Data: 5124 rows
+Pivoted Pulse Data (Aggregated): 730 districts
+Merged Data: 682 rows
+Saved merged data to data/combined_district_data.csv
+            State       District  ...  RegisteredUsers_2019  RegisteredUsers_2020
+0  Andhra Pradesh      Anantapur  ...              612162.0              971850.0
+1  Andhra Pradesh       Chittoor  ...              812314.0             1270907.0
+2  Andhra Pradesh  East Godavari  ...              839277.0             1329664.0
+3  Andhra Pradesh         Guntur  ...              802394.0             1289678.0
+4  Andhra Pradesh        Krishna  ...              833694.0             1331602.0
+
+[5 rows x 7 columns]

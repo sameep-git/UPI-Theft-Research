@@ -1,0 +1,448 @@
+
+--- Analyzing A&N Islands ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Andhra Pradesh ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - Anantapur
+  - Cuddapah
+  - Guntur Urban
+  - Nellore
+  - Prakasham
+  - Rajahmundry
+  - Tirupathi Urban
+  - Vijayawada City
+  - Vijayawada Railway
+  - Visakha Rural
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Alluri Sitharama Raju
+  - Anakapalli
+  - Anantapuramu
+  - Annamayya
+  - Bapatla
+  - Dr BR Ambedkar Konaseema
+  - Eluru
+  - Kakinada
+  - NTR
+  - Nandyal
+  - Palnadu
+  - Parvathipuram Manyam
+  - Prakasam
+  - Sri Potti Sriramulu Nellore
+  - Sri Sathya Sai
+  - Tirupati
+  - Viiayawada Railway
+  - YSR
+
+--- Analyzing Arunachal Pradesh ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Assam ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Bajali
+  - Tamulpur
+
+--- Analyzing Bihar ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - Bhabhua
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Kaimur(Bhabhua)
+
+--- Analyzing Chandigarh ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Chhattisgarh ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Gaurela-Pendra-Marwari
+  - Khairagarh - Chhuikhadan-Gandai
+  - Manendragarh-Chirmiri-Bharatpur
+  - Mohla-Manpur-Ambagarh Chouki
+  - Sakti
+  - Sarangarh-Bilaigarh
+
+--- Analyzing D&N Haveli ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - D&N Haveli
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - D&N Haveli
+  - Daman
+  - Diu
+
+--- Analyzing D&N Haveli and Daman & Diu ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - D&N Haveli
+  - Daman
+  - Diu
+
+--- Analyzing Daman & Diu ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - Daman
+  - Diu
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - D&N Haveli
+  - Daman
+  - Diu
+
+--- Analyzing Delhi ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - Central
+  - Crime Branch
+  - Dwarka
+  - EOW
+  - East
+  - IGI Airport
+  - Metro
+  - New Delhi
+  - North
+  - North-East
+  - North-West
+  - Outer
+  - Outer North
+  - RAILWAY
+  - Rohini
+  - SPUWAC
+  - Shahdara
+  - South
+  - South-East
+  - South-West
+  - Spl Cell
+  - Vigilance
+  - West
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Central
+  - Crime Branch
+  - Dwarka
+  - EOW
+  - East
+  - IGI Airport
+  - Metro
+  - New Delhi
+  - North
+  - North-East
+  - North-West
+  - Outer
+  - Outer North
+  - RAILWAY
+  - Rohini
+  - SPUWAC
+  - Shahdara
+  - South
+  - South-East
+  - South-West
+  - Spl Cell
+  - Vigilance
+  - West
+
+--- Analyzing Delhi UT ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - Central
+  - Crime Branch
+  - Dwarka
+  - EOW
+  - East
+  - IGI Airport
+  - Metro
+  - New Delhi
+  - North
+  - North-East
+  - North-West
+  - Outer
+  - Outer North
+  - RAILWAY
+  - Rohini
+  - SPUWAC
+  - Shahdara
+  - South
+  - South-East
+  - South-West
+  - Spl Cell
+  - Vigilance
+  - West
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Goa ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Gujarat ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Cyber Ahmedabad Range
+  - Cyber Bhavnagar Range
+  - Cyber Border Range
+  - Cyber Gandhinagar Range
+  - Cyber Junagadh Range
+  - Cyber Panchmahal Range
+  - Cyber Rajkot Range
+  - Cyber Surat Range
+  - Cyber Vadodara Range
+  - W Rly Ahmedabad
+  - W Rly Vadodara
+
+--- Analyzing Haryana ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - Mewat
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Himachal Pradesh ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Nurpur
+
+--- Analyzing Jammu & Kashmir ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - Crime Jammu
+  - Crime Srinagar
+  - Kargil
+  - Leh
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Anti Narcotic Task Force Jammu
+  - Anti Narcotic Task Force Kashmir
+  - CICE Jammu
+  - CICE Kashmir
+  - Cyber Crime Jammu
+  - Cyber Crime Kashmir
+  - EOW Jammu
+  - EOW Kashmir
+  - Special Crime Wing Jammu
+  - Special Crime Wing Kashmir
+
+--- Analyzing Jharkhand ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Karnataka ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - KGF
+  - KRailways
+  - Vijayanagara
+
+--- Analyzing Kerala ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - Kannur
+  - Thrissur Commr.
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - All Districts
+  - Ernakulam Commr
+  - Kannur City
+  - Kannur Rural
+  - Kollam Commr
+  - Kozhikode Commr
+  - Thrissur Commr
+  - Trivandrum Commr
+
+--- Analyzing Ladakh ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Kargil
+  - Leh
+
+--- Analyzing Lakshadweep ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Madhya Pradesh ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - Bhopal
+  - Hoshangabad
+  - Indore
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Bhopal Commissionarate
+  - Bhopal Rural
+  - Indore Commissionarate
+  - Indore Rural
+  - Narmadapuram
+
+--- Analyzing Maharashtra ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Amravati Commr
+  - Chhatrapati Sambhajinagar Commr
+  - Chhatrapati Sambhajinagar Railway
+  - Chhatrapati Sambhajinagar Rural
+  - Dharashiv
+  - Mira Bhayandar Vasai Virar Commr
+  - Mira Bhayandar Vasai Virar Commr.
+  - Mumbai Commr
+  - Nagpur Commr
+  - Nasik Commr
+  - Pune Commr
+  - Solapur Commr
+  - Thane Commr
+
+--- Analyzing Manipur ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Meghalaya ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Khasi Hills Eastern West
+
+--- Analyzing Mizoram ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Crime and EOU
+  - Cyber
+  - Hnahthial
+  - Khawzawl
+  - Saitual
+
+--- Analyzing Nagaland ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Crime
+  - Cyber Security
+  - Dimapur
+  - Kiphire
+  - Kohima
+  - Longleng
+  - Mokokchung
+  - Mon
+  - Narcotics
+  - Noklak
+  - Peren
+  - Phek
+  - Shamator
+  - Tseminyu
+  - Tuensang
+  - Wokha
+  - Zunheboto
+
+--- Analyzing Nagaland # ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Dimapur
+  - Kiphire
+  - Kohima
+  - Longleng
+  - Mokokchung
+  - Mon
+  - Peren
+  - Phek
+  - Tuensang
+  - Wokha
+  - Zunheboto
+
+--- Analyzing Odisha ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Puducherry ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Punjab ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Cyber Crime Wing
+  - Malerkotla
+
+--- Analyzing Rajasthan ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - ATS & SOG
+  - Anupgarh
+  - Balotra
+  - Beawar
+  - Deeg
+  - Didwana-Kuchaman
+  - Dudu
+  - Gangapur City
+  - Jodhpur Crime
+  - Kekri
+  - Khairtal-Tijara
+  - Kotputli-Behror
+  - Neem Ka Thana
+  - Phalodi
+  - Salumbar
+  - Sanchore
+  - Shahpura
+
+--- Analyzing Sikkim ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - East
+  - North
+  - South
+  - West
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - CID
+  - Gangtok (East)
+  - Gyalshing (West)
+  - Mangan (North)
+  - Namchi (South)
+  - Pakyong (East)
+  - Soreng (West)
+
+--- Analyzing Tamil Nadu ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Avadi
+  - Chengalpattu
+  - Kallakurichi
+  - Mayiladuthurai
+  - Ranipet
+  - Tambaram
+  - Tenkasi
+  - Tiruppattur
+
+--- Analyzing Telangana ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Tripura ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing Uttar Pradesh ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - Kanpur Nagar
+  - Lucknow
+  - Varanasi
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Kanpur Commissionarate
+  - Kanpur Outer
+  - Lucknow Commissionarate
+  - Lucknow Grameen
+  - Varanasi Commissionarate
+  - Vasanasi Dehat
+
+--- Analyzing Uttarakhand ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+Districts with data ONLY for 2022-2023 (Likely New Names):
+
+--- Analyzing West Bengal ---
+Districts with data ONLY for 2017-2019 (Likely Old Names):
+  - Barasat
+  - Baruipur Police
+  - Basirhat
+  - Chandannagar PC
+  - Diamond Harbour Police
+  - Kalimpong
+  - Murshidabad
+  - Nadia
+  - Purba Bardhaman
+  - Sundarban Police
+Districts with data ONLY for 2022-2023 (Likely New Names):
+  - Bangaon
+  - Barasat
+  - Baruipur Police
+  - Basirhat
+  - Chandannagar PC
+  - Diamond Harbour Police
+  - Islampur
+  - Jangipur Police District
+  - Kalimpong
+  - Krishnagar
+  - Murshidabad Police District
+  - Purba Bardhaman
+  - Raiganj
+  - Ranaghat
+  - Sundarban Police

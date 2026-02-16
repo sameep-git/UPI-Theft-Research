@@ -1,0 +1,30 @@
+Total rows: 682
+No duplicates in (State, District) pairs found. (Unique identifier verified)
+
+Warning: 5 rows still contain 'Urban' or 'Rural' in the name:
+              State              District
+9    Andhra Pradesh         Visakha Rural
+541          Punjab        Amritsar Rural
+550          Punjab       Jalandhar Rural
+584       Rajasthan         Jodhpur Rural
+669     West Bengal  Hooghly Rural Police
+
+Missing values:
+State                   0
+District                0
+Theft_2018              0
+Theft_2019              0
+RegisteredUsers_2018    0
+RegisteredUsers_2019    0
+RegisteredUsers_2020    0
+dtype: int64
+
+Sample rows:
+                State  ... RegisteredUsers_2020
+90              Bihar  ...             498548.0
+47              Assam  ...              62477.0
+283            Kerala  ...             404139.0
+202  Himachal Pradesh  ...             220293.0
+312    Madhya Pradesh  ...             190416.0
+
+[5 rows x 7 columns]

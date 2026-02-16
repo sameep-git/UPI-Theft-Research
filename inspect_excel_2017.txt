@@ -1,0 +1,13 @@
+                                                   0  ...                                                  4
+0  IPC Crimes (Crime Head-wise & States/UT-wise) ...  ...                                                NaN
+1                                              S. No  ...                                                NaN
+2                                                NaN  ...                        Causing Death by Negligence
+3                                                NaN  ...  Causing Death by Negligence (Sec.304-A IPC) (C...
+4                                                NaN  ...                                                NaN
+5                                                NaN  ...                                                NaN
+6                                                  1  ...                                                  5
+7                              State: Andhra Pradesh  ...                                                NaN
+8                                                  1  ...                                                569
+9                                                  2  ...                                                529
+
+[10 rows x 5 columns]
