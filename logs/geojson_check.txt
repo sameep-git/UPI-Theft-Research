@@ -1,0 +1,4 @@
+Index(['objectid', 'statecode', 'district', 'state', 'shape_leng',
+       'shape_area', 'dist_code', 'remarks', 'D_CODE', 'st_code', 'geometry'],
+      dtype='object')
+Column st_nm not found

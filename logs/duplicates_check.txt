@@ -1,0 +1,128 @@
+Total rows: 638
+Unique HASC: 527
+Duplicates: 111
+                            District    HASC_2
+1                           Chittoor  IN.AD.CH
+9                           Tirupati  IN.AD.CH
+10                     Visakhapatnam  IN.AD.VS
+11                      Vizianagaram  IN.AD.VS
+22                       Lower Siang  IN.AR.WS
+25                             Siang  IN.AR.WS
+128                             West  IN.DL.WE
+491                             West  IN.DL.WE
+375                           Aizawl  IN.MZ.AI
+378                         Khawzawl  IN.MZ.AI
+434                          Fazilka  IN.PB.FI
+435                        Firozepur  IN.PB.FI
+482                    Sriganganagar  IN.RJ.GA
+464                       Ganganagar  IN.RJ.GA
+469                           Jalore  IN.RJ.JL
+468                            Jalor  IN.RJ.JL
+526                      Mahabubabad  IN.TG.MA
+527                     Mahabubnagar  IN.TG.MA
+523                        Kamareddy  IN.TG.RA
+534                       Sangareddy  IN.TG.RA
+617                    Pauri Garhwal  IN.UT.TG
+619                    Tehri Garhwal  IN.UT.TG
+358                          Bankura  IN.WB.BN
+621                          Bankura  IN.WB.BN
+625                   East Bardhaman  IN.WB.BR
+636                   West Bardhaman  IN.WB.BR
+13                               Ysr       NaN
+17                             Kamle       NaN
+20                          Longding       NaN
+23                            Namsai       NaN
+28                            Bajali       NaN
+31                         Biswanath       NaN
+34                         Charaideo       NaN
+40                        Dima Hasao       NaN
+44                             Hojai       NaN
+49                             Kheri       NaN
+51                            Majuli       NaN
+56                          Tamulpur       NaN
+66         Chhatrapati Sambhajinagar       NaN
+72                     Kaimur Bhabua       NaN
+97                             Balod       NaN
+102                       Gariyaband       NaN
+104                        Kabirdham       NaN
+105                           Kanker       NaN
+106                        Kondagaon       NaN
+109  Manendragarh Chirmiri Bharatpur       NaN
+110     Mohla Manpur Ambagarh Chouki       NaN
+115                            Sakti       NaN
+116              Sarangarh Bilaigarh       NaN
+117                            Sukma       NaN
+118                         Surajpur       NaN
+119                          Central       NaN
+120                             East       NaN
+121                        New Delhi       NaN
+122                            North       NaN
+123                       North East       NaN
+124                       North West       NaN
+125                            South       NaN
+126                       South East       NaN
+127                       South West       NaN
+137                            Botad       NaN
+138                     Chhotaudepur       NaN
+140                  Devbhumi Dwarka       NaN
+142                      Gir Somnath       NaN
+147                        Mahisagar       NaN
+148                            Morbi       NaN
+163                    Charkhi Dadri       NaN
+173                              Nuh       NaN
+195                        Baramulla       NaN
+196                           Budgam       NaN
+206                          Rajouri       NaN
+210                          Shopian       NaN
+236                        Bengaluru       NaN
+273                       Agar Malwa       NaN
+300                     Narmadapuram       NaN
+303                           Niwari       NaN
+327                             Beed       NaN
+331        Chhatrapati Sambhajinagar       NaN
+332                        Dharashiv       NaN
+345                          Palghar       NaN
+363                          Jiribam       NaN
+364                         Kakching       NaN
+365                          Kamjong       NaN
+366                        Kangpokpi       NaN
+367                            Noney       NaN
+368                         Pherzawl       NaN
+371                       Tengnoupal       NaN
+377                        Hnahthial       NaN
+384                          Saitual       NaN
+389                         Longleng       NaN
+392                           Noklak       NaN
+395                         Shamator       NaN
+396                         Tseminyu       NaN
+443                        Pathankot       NaN
+446                        Sas Nagar       NaN
+448                Sri Muktsar Sahib       NaN
+485                             East       NaN
+486                    East District       NaN
+487                            North       NaN
+488                   North District       NaN
+489                            South       NaN
+490                   South District       NaN
+492                    West District       NaN
+520             Bhadradri Kothagudem       NaN
+522                 Jogulamba Gadwal       NaN
+529                     Nagarkurnool       NaN
+531                       Narayanpet       NaN
+532                           Nirmal       NaN
+535                         Siddipet       NaN
+536                         Suryapet       NaN
+537                        Vikarabad       NaN
+538                       Wanaparthy       NaN
+541                           Gomati       NaN
+542                          Unakoti       NaN
+546                           Amethi       NaN
+548                          Ayodhya       NaN
+572                            Hapur       NaN
+578              Jyotiba Phule Nagar       NaN
+582                          Kasganj       NaN
+591                              Mau       NaN
+601                          Sambhal       NaN
+604                           Shamli       NaN
+620                       Alipurduar       NaN
+637                   West Medinipur       NaN

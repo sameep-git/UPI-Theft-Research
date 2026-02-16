@@ -1,0 +1,30 @@
+Starting matching process...
+Loaded 638 rows from crime data
+Loaded 676 records from shapefile
+Total rows in crime data: 638
+Matches found: 502
+Mismatches: 143
+
+Sample Mismatches (first 20):
+Andhra Pradesh - Spsr Nellore
+Andhra Pradesh - Tirupati
+Arunachal Pradesh - Kamle
+Arunachal Pradesh - Lower Siang
+Arunachal Pradesh - Siang
+Assam - Bajali
+Assam - Biswanath
+Assam - Charaideo
+Assam - Hojai
+Assam - Kheri
+Assam - Majuli
+Assam - Tamulpur
+Bihar - Chhatrapati Sambhajinagar
+Bihar - Kaimur Bhabua
+Bihar - Purbi Champaran
+Bihar - Purnea
+Chhattisgarh - Gariyaband
+Chhattisgarh - Kabirdham
+Chhattisgarh - Kanker
+Chhattisgarh - Manendragarh Chirmiri Bharatpur
+
+Saved matched data to data/master_district_data_crime_with_codes.csv

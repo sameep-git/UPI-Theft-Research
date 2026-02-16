@@ -1,0 +1,64 @@
+Loading data...
+Crime Data: 638 rows
+Shapefile: 676 rows
+HTML Mapping: 1908 rows
+Matching complete.
+Total Rows: 638
+Matched: 569
+Unmatched: 69
+
+Match Sources:
+Shapefile_Exact                       499
+Unmatched                              69
+HTML_Exact_Verified                    39
+Shapefile_Fuzzy_mahbubnagar             2
+Shapefile_Fuzzy_rangareddy              2
+Shapefile_Fuzzy_barddhaman              2
+Shapefile_Fuzzy_westsiang               2
+Shapefile_Fuzzy_chhotaudaipur           1
+Shapefile_Fuzzy_pashchimisinghbhum      1
+Shapefile_Fuzzy_tehrigarhwal            1
+Shapefile_Fuzzy_gautambuddhanagar       1
+Shapefile_Fuzzy_unokoti                 1
+Shapefile_Fuzzy_gariaband               1
+Shapefile_Fuzzy_ganganagar              1
+Shapefile_Fuzzy_jhunjhunun              1
+Shapefile_Fuzzy_firozpur                1
+Shapefile_Fuzzy_aizawl                  1
+Shapefile_Fuzzy_raigarh                 1
+Shapefile_Fuzzy_mumbaicity              1
+Shapefile_Fuzzy_gondiya                 1
+Shapefile_Fuzzy_ahmadnagar              1
+Shapefile_Fuzzy_kabeerdham              1
+Shapefile_Fuzzy_tumkur                  1
+Shapefile_Fuzzy_shimoga                 1
+Shapefile_Fuzzy_chikmagalur             1
+Shapefile_Fuzzy_chikballapura           1
+Shapefile_Fuzzy_bellary                 1
+Shapefile_Fuzzy_bagalkot                1
+Shapefile_Fuzzy_sahibganj               1
+Shapefile_Fuzzy_bijapur                 1
+Name: count, dtype: int64
+
+Remaining Mismatches (Sample):
+            State                        District
+Arunachal Pradesh                           Kamle
+            Assam                          Bajali
+            Assam                       Biswanath
+            Assam                       Charaideo
+            Assam                           Hojai
+            Assam                           Kheri
+            Assam                          Majuli
+            Assam                        Tamulpur
+            Bihar       Chhatrapati Sambhajinagar
+            Bihar                   Kaimur Bhabua
+     Chhattisgarh                          Kanker
+     Chhattisgarh Manendragarh Chirmiri Bharatpur
+     Chhattisgarh    Mohla Manpur Ambagarh Chouki
+     Chhattisgarh                           Sakti
+     Chhattisgarh             Sarangarh Bilaigarh
+            Delhi                         Central
+            Delhi                            East
+            Delhi                       New Delhi
+            Delhi                           North
+            Delhi                      North East

@@ -1,0 +1,7 @@
+Extracted 1908 records from HTML.
+     District      HASC
+0    Adilabad  IN.TG.AD
+1  Agar Malwa  IN.MP.AM
+2        Agra  IN.UP.AG
+3   Ahmedabad  IN.GJ.AB
+4  Ahmednagar  IN.MH.AH

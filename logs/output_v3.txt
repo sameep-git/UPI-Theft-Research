@@ -1,0 +1,7 @@
+Starting enhanced matching process...
+Loaded 638 rows from crime data
+Loaded 676 records from shapefile
+Initial mismatches: 143
+Additional matches found via fuzzy/manual logic: 70
+Final matches: 572 out of 638
+Saved to data/master_district_data_crime_with_codes_v3.csv
